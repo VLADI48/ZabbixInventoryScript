@@ -1,4 +1,4 @@
-# ZabbixInventoryScript
+# Zabbix Inventory Script
 
 This is a small script to get information about computer hardware, MAC address and data output to Zabbix.
 
