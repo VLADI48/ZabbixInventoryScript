@@ -1,6 +1,6 @@
 # Zabbix Inventory Script
 
-This is a small script to get information about computer hardware (CPU, MB, RAM), MAC address and data output to Zabbix.
+This is a small script to get information about computer hardware (CPU, MB, GPU, Drive, RAM), MAC address and data output to Zabbix.
 
 The script must be written to the zabbix_agent2.conf file in the UserParameter section and given a name. I created two parameters, get.inventory for the computer and get.mac for the MAC address.
 
